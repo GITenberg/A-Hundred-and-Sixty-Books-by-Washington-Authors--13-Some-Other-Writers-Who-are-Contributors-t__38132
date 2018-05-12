@@ -9,6 +9,8 @@ covers:
 - cover_type: archival
   image_path: 38132-h/images/cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38132#A-Hundred-and-Sixty-Books-by-Washington-Authors--13-Some-Other-Writers-Who-are-Contributors-t_
 gutenberg_issued: '2011-11-25'
 gutenberg_type: Text
 identifiers:
