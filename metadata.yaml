@@ -1,0 +1,28 @@
+_repo: A-Hundred-and-Sixty-Books-by-Washington-Authors--13-Some-Other-Writers-Who-are-Contributors-t__38132
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Hassell, Susan Whitcomb
+    gutenberg_agent_id: '39264'
+    url: http://www.gutenberg.org/2009/agents/39264
+covers:
+- cover_type: archival
+  image_path: 38132-h/images/cover.png
+description: ''
+gutenberg_issued: '2011-11-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38132'
+  lccn: '16018643'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Washington (State) -- In literature -- Bibliography'
+- !lcsh 'American literature -- Washington (State) -- Bibliography'
+- !lcsh 'Authors, American -- Homes and haunts -- Washington (State)'
+- !lcc 'Z'
+title: "A Hundred and Sixty Books by Washington Authors\r\nSome Other Writers Who\
+  \ are Contributors to Periodical Literature; Lines Worth Knowing by Heart"
+url: http://www.gutenberg.org/ebooks/38132
